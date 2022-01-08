@@ -5,3 +5,4 @@
 # 4. Menyhárt Martin h2 tag beszúrása
 # 5. Kopasz Kristóf h3 tag beszúrása
 # 6. Bige Zoltán kiemelések (dölt,félkövér)
+# 7. Soltész Mónika css(background-color,font-size/family,text-decoration)
